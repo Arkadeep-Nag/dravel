@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+![Image Alt Text](./public/demo/Untitled%20(1)_page-0002.jpg)
 ---
 
 # **Dravel**  
@@ -16,7 +16,7 @@ Dravel is a news source and friends' activity-sharing platform designed for neo-
 ---
 
 =======
-![Image Alt Text](./public/demo/Untitled%20(1)_page-0002.jpg)
+
 
 ---
 
@@ -85,7 +85,7 @@ We welcome contributions! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 =======
-![Image Alt Text](./public/demo/Untitled%20(1)_page-0002.jpg)
+
 ---
 ## **Technologies Used**
 - **Frontend**: React.js, Redux  
