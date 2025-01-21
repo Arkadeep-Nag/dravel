@@ -35,7 +35,7 @@ Dravel is a news source and friends' activity-sharing platform designed for neo-
 ---
 ![Image Alt Text](./public/demo/Untitled%20(1)_page-0001.jpg)
 ---
->>>>>>> d0d27d0 (readme updation)
+
 ## **Features**
 - Plan your **travel itinerary** with friends.
 - **Discuss projects** or group sessions for upcoming exams.
@@ -46,7 +46,7 @@ Dravel is a news source and friends' activity-sharing platform designed for neo-
 - Activity sharing and **community-driven content**.
 
 ---
-<<<<<<< HEAD
+
 
 ## **Technologies Used**
 - **Frontend**: React.js, Redux  
@@ -123,5 +123,5 @@ We welcome contributions! To contribute:
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
->>>>>>> d0d27d0 (readme updation)
+
 ---
