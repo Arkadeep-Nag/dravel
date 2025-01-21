@@ -18,6 +18,8 @@ Dravel is a news source and friends' activity-sharing platform designed for neo-
 - Plan your **travel itinerary** with friends.
 - **Discuss projects** or group sessions for upcoming exams.
 - Stay updated on **local events** and activities.
+- Checkout global news and what your friends have to say on them
+- Understand trends better than anyone.
 - Easy **UI/UX** for seamless navigation.
 - Activity sharing and **community-driven content**.
 
@@ -25,7 +27,7 @@ Dravel is a news source and friends' activity-sharing platform designed for neo-
 
 ## **Technologies Used**
 - **Frontend**: React.js, Redux  
-- **Backend**: Firebase for Authentication and Realtime Database  
+- **Backend**: Firebase , AWS DynamoDB and S3.
 - **Styling**: CSS, Styled Components  
 - **Icons**: React Icons  
 - **State Management**: Redux Persist  
