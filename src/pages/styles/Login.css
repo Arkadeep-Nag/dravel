@@ -35,7 +35,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top:38px
+    margin-top:22px
+}
+.name:nth-child(1) {
+    margin-top: 22px;
 }
 .inputContainer input {
     width: 100%;
@@ -46,6 +49,9 @@
     border: none;
     outline: none;
     font-size: 18px;
+}
+.inputContainer input::placeholder {
+    color: var(--border-color);
 }
 .logincontent {
     width: 100%;
