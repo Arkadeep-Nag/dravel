@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+  --border-color: #d7d7d7;
+  --text-color: #000000;
+  --background: #ffffff;
+  --light-text: #A0A0A0;
+  --contrast-background: #000000;
+  --link-color: #2A71FF;
+}
+* {
+  font-family: 'Roboto',sans-serif;
+}
+main {
+  position: relative;
+  top: 72px;
+  padding: 35px 35px 0 35px;
+}

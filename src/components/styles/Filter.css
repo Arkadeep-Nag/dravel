@@ -1,0 +1,27 @@
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.filter {
+    height: 38px;
+    width: auto;
+    padding: 0 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    margin-right: 30px;
+}
+.active {
+    border: 1px solid var(--text-color);
+    color: var(--text-color);
+}
+.inactive {
+    border: 1px solid var(--border-color);
+    color: var(--border-color);
+}
+.filter-addition svg {
+    font-size: 34px;
+    color: var(--border-color);
+}

@@ -1,0 +1,115 @@
+.loginPage{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.loginContainer {
+    width: min(400px, 90vw);
+    position: relative;
+    
+}
+.loginContainer h1 {
+    font-family: 'Playfair Display',serif;
+    font-size: 48px;
+    margin: 0;
+    padding:0;
+    font-weight: 400;
+}
+.loginContainer p {
+    font-family: 'Roboto',sans-serif;
+    font-size: 19px;
+    color: var(--light-text);
+    line-height: 22px;
+    margin: 0;
+    padding: 0;
+    margin-top: 22px;
+}
+.inputContainer {
+    width: calc(100% - 50px);
+    padding: 0 25px;
+    height: 56px;
+    border: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:38px
+}
+.inputContainer input {
+    width: 100%;
+    height: auto;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    font-size: 18px;
+}
+.logincontent {
+    width: 100%;
+}
+.btn-submit {
+    width:100%;
+    padding: 0 25px;
+    height: 56px;
+    border: none;
+    background: var(--contrast-background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:22px;
+    color: var(--background);
+    font-size: 18px;
+}
+.seperator {
+    margin-top: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-size: 12px;
+    
+}
+.seperator span {
+    margin: 0 10px;
+}
+.line {
+    flex: 1;
+    height: 0px;
+    border-top: 1px solid var(--border-color);
+}
+.social-sso-pl {
+    margin-top: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.social-sso-sing {
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--border-color);
+    height: 60px;
+    margin: 0 10px;
+    transition: all 0.3s ease-in-out;
+}
+.social-sso-sing svg {
+    font-size: 24px;
+    color: var(--light-text);
+}
+.social-sso-sing:hover {
+    transform: scale(1.1);
+}
+.action-signup {
+    position: fixed;
+    bottom: 30px;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.action-signup a {
+    text-decoration: none;
+    color: var(--link-color);
+}
